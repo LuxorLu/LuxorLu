@@ -1,4 +1,6 @@
+--- 
 👋 Hi, I’m @LuxorLu
+---
 👀 I’m interested in Data Science, Machine Learning, and Data Analysis.
 🌱 I’m currently learning Python, SQL, and core concepts of Data Analysis.
 💞️ I’m looking to collaborate on beginner-friendly Python and Data Science projects.
